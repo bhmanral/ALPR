@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
-
+import DD from './DD';
+import DragDrop from './DD';
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        {<img src={logo} className="App-logo" alt="logo" />}
+        <h1 style={{ marginBottom: '10px' }}>
+          LICENSE PLATE DETECTION
+        </h1>
+        <p style={{ marginTop: '0.5px' }} >
+          This will detect the car license plate number from the provided image
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <DD />
       </header>
     </div>
   );
-}
+
+};
+
+
 
 export default App;
