@@ -13,15 +13,15 @@
 |               OUTPUT SCREENSHOTS                                    |
 | ------------------------------------------------------------------- |
 <p float="left">
-  <img src="images_ss/img1.png" width="450" />
+  <img src="images_ss/img1.png" width="400" />
   <tab>
-  <img src="images_ss/img2.png" width="450" /> 
+  <img src="images_ss/img2.png" width="400" /> 
 </p>
 <br><br>
 <p float="left">
-  <img src="images_ss/img3.png" width="450" />
+  <img src="images_ss/img3.png" width="400" />
   <tab>
-  <img src="images_ss/img4.png" width="450" /> 
+  <img src="images_ss/img4.png" width="400" /> 
 </p>
 
 ---
