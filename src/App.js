@@ -1,7 +1,7 @@
 import logo from './logo.png';
 import './App.css';
 import DD from './DD';
-import DragDrop from './DD';
+
 function App() {
 
   return (
